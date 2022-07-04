@@ -10,7 +10,7 @@ Unofficial [Kiwi](https://kiwi.com) Go client library.
 ## Installation
 
 ```sh
-go get github.com/alex-rufo/kiwi-go
+go get github.com/greengeko/kiwi-go
 ```
 
 ## Documentation
