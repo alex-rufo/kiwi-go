@@ -1,7 +1,7 @@
 # Go Kiwi
 ## Summary
 
-Unofficial [Kiwi](https://kiwi.com) Go client library.
+Unofficial [Kiwi](https://kiwi.com) Go client (wrapper).
 
 ## Installation
 
